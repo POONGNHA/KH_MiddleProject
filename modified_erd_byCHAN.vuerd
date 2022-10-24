@@ -3,8 +3,8 @@
     "version": "2.2.11",
     "width": 2000,
     "height": 2000,
-    "scrollTop": 0,
-    "scrollLeft": 0,
+    "scrollTop": -281,
+    "scrollLeft": -146,
     "zoomLevel": 0.8,
     "show": {
       "tableComment": true,
@@ -230,7 +230,7 @@
             "ui": {
               "active": false,
               "pk": false,
-              "fk": true,
+              "fk": false,
               "pfk": false,
               "widthName": 92.923828125,
               "widthComment": 97.5703125,
@@ -552,32 +552,6 @@
         "constraintName": "fk_answer_list_to_question",
         "visible": true,
         "id": "65ca5d71-bd22-44f2-a936-843fe72b31e6"
-      },
-      {
-        "identification": false,
-        "relationshipType": "OneN",
-        "startRelationshipType": "Dash",
-        "start": {
-          "tableId": "5df087d5-d50d-4f1a-820d-e6e182bffeb5",
-          "columnIds": [
-            "5cae28cd-86aa-4e8f-951e-9c876f9cc903"
-          ],
-          "x": 617.0031890625,
-          "y": 728.5335,
-          "direction": "right"
-        },
-        "end": {
-          "tableId": "185ea730-33b6-4dec-ac89-731d3be27a43",
-          "columnIds": [
-            "8844d027-0f10-4b20-97f2-e0ca79dbede6"
-          ],
-          "x": 669.616297265625,
-          "y": 575.0649000000001,
-          "direction": "bottom"
-        },
-        "constraintName": "fk_question_to_question_answer",
-        "visible": true,
-        "id": "5977aeef-8362-435a-a7a7-9cd8189aac55"
       },
       {
         "identification": false,
