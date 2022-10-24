@@ -4,7 +4,7 @@
     "width": 2000,
     "height": 2000,
     "scrollTop": -281,
-    "scrollLeft": -146,
+    "scrollLeft": -154,
     "zoomLevel": 0.8,
     "show": {
       "tableComment": true,
@@ -118,9 +118,9 @@
         ],
         "ui": {
           "active": false,
-          "left": 151.7444,
-          "top": 695.9085,
-          "zIndex": 2,
+          "left": 1181.7444,
+          "top": 734.6585,
+          "zIndex": 13,
           "widthName": 65.41943359375,
           "widthComment": 60
         },
@@ -180,9 +180,9 @@
         ],
         "ui": {
           "active": false,
-          "left": 955.1246,
-          "top": 711.877,
-          "zIndex": 3,
+          "left": 1192.6246,
+          "top": 444.377,
+          "zIndex": 14,
           "widthName": 83.89111328125,
           "widthComment": 60
         },
@@ -536,18 +536,18 @@
           "columnIds": [
             "e8892a81-f9b6-47cc-a99c-8f16f27f0425"
           ],
-          "x": 955.1246,
-          "y": 794.377,
-          "direction": "left"
+          "x": 1412.25399453125,
+          "y": 554.377,
+          "direction": "bottom"
         },
         "end": {
           "tableId": "5df087d5-d50d-4f1a-820d-e6e182bffeb5",
           "columnIds": [
             "d9c9ec64-5226-4022-9a76-dc2dcf9d070d"
           ],
-          "x": 617.0031890625,
-          "y": 793.7835,
-          "direction": "right"
+          "x": 1414.37379453125,
+          "y": 734.6585,
+          "direction": "top"
         },
         "constraintName": "fk_answer_list_to_question",
         "visible": true,
@@ -562,8 +562,8 @@
           "columnIds": [
             "e8892a81-f9b6-47cc-a99c-8f16f27f0425"
           ],
-          "x": 955.1246,
-          "y": 739.377,
+          "x": 1192.6246,
+          "y": 499.377,
           "direction": "left"
         },
         "end": {
@@ -571,9 +571,9 @@
           "columnIds": [
             "24db6fc3-b61d-4e65-b855-a72d48c9ee0e"
           ],
-          "x": 902.245691796875,
-          "y": 575.0649000000001,
-          "direction": "bottom"
+          "x": 1018.5603890625,
+          "y": 499.5649,
+          "direction": "right"
         },
         "constraintName": "fk_answer_list_to_question_answer",
         "visible": true,
